@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/thebookus_php/resources/views/layouts/homelayout.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/home/shops.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/app/Library/ShopFactory.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/home/shop_map_view.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/app/Http/Controllers/TherapistController.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/home/index.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/career/index.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/therapist/view.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/therapist/index.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/resources/views/home/view.blade.php</file>
+            <file>file:/var/www/html/thebookus_php/public/css/style.css</file>
+            <file>file:/var/www/html/thebookus_php/app/Http/Controllers/HomeController.php</file>
+            <file>file:/var/www/html/thebookus_php/routes/web.php</file>
+        </group>
+    </open-files>
+</project-private>

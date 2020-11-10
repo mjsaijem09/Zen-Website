@@ -1,0 +1,498 @@
+/* home/shop_map.view.blade */
+.custom .container {
+  margin: 0;
+  width: 100%;
+}
+
+.custom .card-body {
+  padding: 0;
+  background-color: #b9b9b957;
+}
+
+.custom .card.example-1 {
+  height: 562px;
+  border: none;
+}
+
+.custom .map-fix {
+  height: 100%;
+  width: 100%;
+}
+
+.custom.col-lg-4 {
+  padding: 0;
+}
+
+.custom.col-lg-8 {
+  padding: 0;
+}
+
+.custom .scrollbar-ripe-malinka::-webkit-scrollbar {
+  width: 8px;
+  background-color: #f5f5f5;
+}
+
+.custom .scrollbar-ripe-malinka::-webkit-scrollbar-thumb {
+  border-radius: 0;
+}
+
+.custom .row {
+  margin: 0;
+  padding: 0;
+}
+
+.custom-container {
+  margin: 0;
+  padding: 0;
+}
+
+.custom #about {
+  padding: 34px 0px 0px 0px;
+}
+
+.custom h4#shop_address {
+  color: #ffffff;
+}
+
+.custom span.txt-rate {
+  color: #ffffff;
+}
+
+.custom .buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.custom span.distan {
+  background-color: #ffffff;
+  padding: 0;
+  display: flex;
+}
+
+.custom i.material-icons.explore {
+  color: #9b9b9b;
+  font-size: 19px;
+  margin: 6px 3px 0 0;
+}
+
+.custom .distan p {
+  color: #9b9b9b;
+  font-size: 12px;
+  margin: 0;
+}
+
+a.btn.btn-brown.shopmap:hover {
+  padding: 0.25rem 0.5rem;
+}
+
+/* therapist/view.blade */
+.custom section#review-sec {
+  padding: 25px 80px;
+}
+
+.custom .name-gender h2 {
+  font-size: 48px;
+}
+
+.custom .name-gender {
+  display: flex;
+  margin: 10px 0 0 -4px;
+}
+
+.custom .gender-icon {
+  margin: 6px 0 0 15px;
+}
+
+.custom .therapist-info p.waiting-time {
+  margin: -12px 0 25px 0;
+  font-size: 13px;
+  color: #a2a2a2;
+}
+
+.custom p {
+  font-family: Muli, sans-serif !important;
+}
+
+.custom .profile {
+  margin: 0 0 0 -25px;
+  padding: 0;
+}
+
+.custom .achiev {
+  padding: 0;
+}
+
+.custom .flex {
+  display: flex;
+  margin: 0 0 12px 0;
+}
+
+.custom p.achievement {
+  margin-left: 10px;
+}
+
+.custom .rating-count p {
+  color: #212529;
+  font-size: 32px;
+  margin: 0 10px 0 0;
+}
+
+.custom .stars span.fa.fa-star.checked {
+  font-size: 32px;
+  color: #ead200;
+  margin: 0 5px 0 0;
+}
+
+.custom .rating-count {
+  display: flex;
+  align-items: baseline;
+}
+
+.custom p.review-count {
+  font-size: 16px;
+  color: darkgrey;
+}
+
+.custom .exp p {
+  margin: 0;
+  font-size: 15px;
+  /* font-weight: 600; */
+}
+
+.custom a.btn.book-now-button {
+  margin: 40px 0 0 0;
+  padding: 10px 37px;
+  font-family: Muli, sans-serif;
+  font-weight: 600;
+}
+
+.custom .form-group.filter {
+  display: flex;
+  font-family: Muli, sans-serif;
+}
+
+.custom label.col-form-label {
+  width: 69px;
+}
+
+.custom i.fa.fa-thumbs-up {
+  color: #c7c7c7;
+}
+/* home/views */
+.custom h2.top-title {
+  margin: 25px 0 5px 0;
+}
+
+.custom h6.service-title {
+  font-weight: 600;
+  margin: 0;
+}
+
+.custom p.booked-times {
+  font-size: 13px;
+  color: #7b7b7b;
+  font-weight: 500;
+}
+
+h3.feature-title {
+  margin: 0;
+}
+
+.custom .service-features {
+  margin: 0 0 15px 0;
+}
+
+.custom span.feature-item {
+  font-weight: 600;
+}
+
+ol.custom.carousel-indicators {
+  bottom: 0;
+}
+
+/* giftcard/index*/
+
+.custom .group-atm label.btn.btn-secondary {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.custom .group-atm label.btn.btn-secondary {
+  border: none !important;
+  border-radius: 0 !important;
+  margin: 0 10px 0 0 !important;
+}
+
+.custom .modal-footer {
+  padding: 0;
+}
+
+.custom .modal-footer .btn-group.btn-group-toggle.btn-block {
+  margin: 0;
+}
+.custom label.btn.btn-secondary.pay {
+  background-color: #012d5e;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 0px !important;
+  margin: 0 !important;
+  width: 310px;
+}
+
+.custom .form-group.Card-Number {
+  margin: 15px 0 0 0;
+}
+
+.custom label.btn.btn-secondary.cancel {
+  background-color: #f0f0f0;
+  color: #012d5e !important;
+  border: none !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+}
+
+/* home/index */
+.custom-therapist-container {
+  margin-top: 40px;
+}
+
+.custom-therapist-icon {
+  margin: 0 !important;
+}
+
+.custom-therapist-icon figure {
+  margin: 0;
+  border-radius: 0;
+}
+
+.custom-therapist-minimal-info {
+  text-align: left;
+  padding: 10px 10px 10px 10px !important;
+  border-style: dashed;
+  border-width: 1px;
+  margin: -3px 0 13px 0;
+  border-radius: 0 0 10px 10px;
+}
+
+.custom-therapist-name {
+  margin: 2px 0 0 0;
+}
+
+.custom-therapist-book-btn {
+  font-size: 12px !important;
+  background-color: transparent !important;
+  margin: 0 !important;
+  padding: 9px 16px !important;
+  font-weight: 700 !important;
+}
+
+.custom-therapist-book-btn:hover {
+  background-color: #42210e !important;
+}
+
+.custom-therapist-minimal-info p {
+  margin: 5px 0 0 0;
+}
+
+.btn.btn-brown {
+  background-color: #42210e;
+  color: #ffffff;
+  transition: 0.1s;
+}
+
+.btn.btn-brown:hover {
+  color: #ffffff;
+  padding: 10px 12px;
+}
+
+.bg-bottom {
+  background: #fff url(/images/bg-bottom.jpg) center top no-repeat;
+  background-repeat: no-repeat;
+  padding-bottom: 45px;
+  padding-top: 60px;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Footer */
+#footer.custom-footer {
+  margin: 0 0 -25px 0 !important;
+  background-color: #42210e;
+  position: relative;
+}
+
+.custom-footer-container {
+  position: absolute;
+  padding: 0 0 0 75px;
+  top: 190px;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+h3.footer-link-header {
+  color: #42210e;
+}
+
+h5.footer-link-header {
+  color: #42210e;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+ul.custom-footer-ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul.custom-footer-ul li {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+ul.custom-footer-ul li a {
+  color: #42210e;
+}
+
+.bottom-footer-link {
+  margin: 37px 0 10px 0;
+  display: flex;
+}
+
+.vl {
+  border-left: 1px solid #42210e6b;
+  height: 19px;
+  margin: 4px 25px -6px 25px;
+}
+
+.footer-social-links a i {
+  font-size: 37px;
+  margin: 59px 28px 0 0;
+  color: #42210e;
+}
+
+.footer-social-links a i {
+  font-size: 37px;
+  margin: 27px 28px 0 0;
+  color: #42210e;
+}
+
+.bottom-footer-link a {
+  color: #42210e;
+}
+
+.service-info {
+  text-align: left;
+  margin: 10px 0 15px 0;
+}
+/* home/shops */
+.flex-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row.all-shops {
+  margin-top: 40px;
+}
+
+.services-content {
+  width: 100%;
+  /* padding: 10px 10px 10px 10px !important; */
+  /* border-style: dashed; */
+  border-width: 1px;
+  margin: 10px 0 0 0;
+  border-radius: 0 0 10px 10px;
+}
+
+.therapist-content {
+  width: 100%;
+  padding: 10px 10px 10px 10px !important;
+  border-style: dashed;
+  border-width: 1px;
+  margin: -4px 0 20px 0;
+  border-radius: 0 0 10px 10px;
+}
+
+.services-content p {
+  margin: 0;
+}
+
+a.btn.btn-brown.outline {
+  background-color: transparent;
+  border: solid 1px #42210e;
+  color: #42210e;
+  font-weight: 700;
+  font-size: 12px;
+  transition: 0.1s;
+}
+
+a.btn.btn-brown.outline:hover {
+  background-color: #42210e;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 0.375rem 0.75rem;
+}
+
+.row.select-shop {
+  margin: 0 0 30px 0;
+}
+
+/* mobile footer */
+footer.mobile-footer {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.bg-skin {
+  background-color: #ffe2d1;
+  padding: 30px 0;
+}
+
+.mobile.footer-link-header {
+  margin: 20px 0 0 0;
+}
+
+ul.mobile.footer-ul {
+  margin: 0;
+  padding: 0;
+}
+
+.mobile.footer-ul li {
+  list-style-type: none;
+}
+
+.mobile.footer-ul li a {
+  color: #42210e;
+}
+
+.mobile.logo {
+  padding: 25px 0;
+}
+
+.mobile .footer-social-links a i {
+  margin: 0 8px;
+}
+
+.mobile.footer-social-links {
+  margin: 10px 0 0 0;
+}
+
+.bg-brown {
+  background-color: rgb(66, 33, 14);
+  padding: 0 10px;
+}
+
+.mobile.bottom-footer {
+  padding: 10px 0;
+}
+
+.white-link a {
+  color: #ffffff;
+  padding: 0 10px 0 0;
+}
+
+.mobile-device {
+  display: none;
+}
